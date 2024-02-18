@@ -1,3 +1,5 @@
+// Rename to settings.h and fill in
+
 #define WIFI_SSID ""
 #define WIFI_PASSWORD ""
 #define MQTT_ADDRESS "192.168.1.100"
