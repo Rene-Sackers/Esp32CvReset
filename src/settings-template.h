@@ -1,0 +1,5 @@
+#define WIFI_SSID ""
+#define WIFI_PASSWORD ""
+#define MQTT_ADDRESS "192.168.1.100"
+#define MQTT_USER ""
+#define MQTT_PASS ""
